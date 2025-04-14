@@ -4,18 +4,18 @@ Uma aplicação web desenvolvida com React + TypeScript que permite buscar e vis
 
 ## ✨ Funcionalidades
 
-🔎 Busca de usuários: Encontre qualquer perfil público do GitHub apenas digitando o nome de usuário.
-👤 Informações do perfil: Visualize nome, biografia e foto de perfil.
-❌ Tratamento de erros: Receba um aviso caso o usuário pesquisado não seja encontrado.
-⏳ Indicador de carregamento: Feedback visual enquanto os dados estão sendo carregados.
-📱 Design responsivo: Interface adaptável para todos os dispositivos, com um layout limpo e moderno feito com Tailwind CSS.
+- 🔎 Busca de usuários: Encontre qualquer perfil público do GitHub apenas digitando o nome de usuário.
+- 👤 Informações do perfil: Visualize nome, biografia e foto de perfil.
+- ❌ Tratamento de erros: Receba um aviso caso o usuário pesquisado não seja encontrado.
+- ⏳ Indicador de carregamento: Feedback visual enquanto os dados estão sendo carregados.
+- 📱 Design responsivo: Interface adaptável para todos os dispositivos, com um layout limpo e moderno feito com Tailwind CSS.
 
 ## 🚀 Tecnologias utilizadas
 
-⚛️ React
-🟦 TypeScript
-⚡ Vite
-🎨 Tailwind CSS
+- ⚛️ React
+- 🟦 TypeScript
+- ⚡ Vite
+- 🎨 Tailwind CSS
 
 
 ## 🧑‍💻 Como rodar o projeto
