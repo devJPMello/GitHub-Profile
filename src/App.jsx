@@ -31,7 +31,7 @@ function App() {
       const response = await fetch(`https://api.github.com/users/${inputValue}`);
 
       if (!response.ok) {
-        throw new Error("Nenhum perfil foi encontrado com ese nome de usuário.Tente novamente");
+        throw new Error("Nenhum perfil foi encontrado com esse nome de usuário.Tente novamente");
       }
 
       const data = await response.json();
